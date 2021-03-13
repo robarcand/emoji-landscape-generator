@@ -15,4 +15,4 @@ If you don't have Python installed on your local machine, navigate to [their web
 ![Emoji Landscape Example Image](/example-image/emoji-landscape-screenshot.png)
 
 
-🌲🌲🌲"We don't make mistakes, just happy little accidents."🌲🌲🌲
+🍃🌲✨"We don't make mistakes, just happy little accidents."✨🌲🍃
