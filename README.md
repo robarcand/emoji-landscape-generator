@@ -12,4 +12,4 @@ Assuming that you already have Python installed, run the commands:
 
 If you don't have Python installed on your local machine, navigate to [their website](https://www.python.org/downloads/) and follow the instructions to get started.
 
-![Emoji Landscape Example Image](/example-image/emoji-landscape-screenshot)
+![Emoji Landscape Example Image](/example-image/emoji-landscape-screenshot.png)
